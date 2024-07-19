@@ -19,9 +19,7 @@ Personal Room: Instant access to your personalized meeting space.
 Real-time Interaction: Seamless and secure communication in real-time.
 Responsive Design: Optimal viewing across various devices.
 
-Quick Start:
 
-Clone the Repository: git clone https://github.com/adrianhajdin/zoom-clone.git
 Install Dependencies: npm install
 Set Up Environment Variables: Update .env file with your credentials.
 Run the Project: npm run dev
